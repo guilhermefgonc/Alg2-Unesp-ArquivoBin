@@ -1,6 +1,6 @@
 /*
 ----------------------------------------------------------
-Nome: Guilherme Goncalves       RA: 221020561
+Nome: Guilherme Goncalves      
 ----------------------------------------------------------
 
 Supondo-se que em um sistema computacional bancário exista um arquivo de acesso direto 
